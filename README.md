@@ -1,1 +1,8 @@
 # vee-shop-backend
+DB_URI = 
+JWT_SECRET_KEY = 
+STRIPE_KEY = 
+CLIENT_URL= http://localhost:3000
+CLOUDINARY_NAME = 
+CLOUDINARY_API_KEY = 
+CLOUDINARY_API_SECRET =
